@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TheHCJ</h1>
 <h3 align="center">A flutter developer from the UK</h3>
 
-- 🔭 I’m currently working on [Quacker](https://github.com/TheHCJ/Quacker)
+- 🔭 I’m currently working on [flute](https://github.com/TheHCJ/flute)
 
 - 🌱 I’m currently learning **Flutter**
 
