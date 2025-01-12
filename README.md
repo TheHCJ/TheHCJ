@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a bluesky app<br>🌱 I’m currently learning Flutter<br>⚡ I used to use ChatGPT to generate my code before I knew how to code in Flutter
+🌱 I’m currently learning React<br>⚡ I used to use ChatGPT to generate my code before I knew how to code in Flutter
 
 
 ## 🌐 Socials:
